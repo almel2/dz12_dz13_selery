@@ -1,7 +1,3 @@
 from django.contrib import admin
 
 # Register your models here.
-from reminder.models import Author, Quote
-
-admin.site.register(Author)
-admin.site.register(Quote)
